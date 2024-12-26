@@ -1,0 +1,12 @@
+Le site que nous vous proposons a pour objectif de faciliter vos achats en ligne en vous offrant un aperçu des produits en promotion 
+dans divers supermarchés. Chaque supermarché possède sa propre interface personnalisée, où il peut mettre en avant ses offres spéciales,
+ses réductions et ses promotions du moment. Les utilisateurs peuvent consulter ces offres, ajouter les produits souhaités à leur panier, 
+et finaliser leurs achats directement sur le site.
+
+Une fois la commande passée, le site génère un bon de réduction personnalisé, qui résume les articles achetés, le montant total des économies
+réalisées, ainsi qu'un code unique. Ce bon de réduction peut ensuite être utilisé en magasin, à condition de le présenter au moment de l'achat. 
+Ce processus permet aux consommateurs de bénéficier des meilleures offres, tout en offrant aux supermarchés une visibilité accrue de leurs promotions.
+
+Grâce à cette plateforme, les utilisateurs peuvent planifier leurs courses de manière plus stratégique, en profitant des réductions offertes par leurs 
+enseignes préférées. Les supermarchés, quant à eux, ont la possibilité de toucher un large public, en mettant en valeur leurs promotions de façon ciblée 
+et efficace. En fin de compte, l'objectif du site est de simplifier les achats tout en permettant à chacun de faire des économies significatives
